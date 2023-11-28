@@ -1,2 +1,2 @@
-# HauntedHospitalTriggers
+# Haunted-Hospital
  
