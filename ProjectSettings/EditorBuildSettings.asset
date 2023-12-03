@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Hospital_Level.unity
     guid: ea2834d2f0f52dc4d87c2bdda2cc63be
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: afc1d5a7ca4ab1346aa882feec021e72
   m_configObjects: {}
